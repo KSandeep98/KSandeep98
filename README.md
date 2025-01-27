@@ -9,7 +9,10 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer from India, 
 ** Skills**
 
 👨‍💻 HTML, JavaScript, React
+
 ⚙️ BootStrap, CSS
+
 👁️ Java, Hibernate, Spring, SpringBoot
+
     MySql,Oracle
-a lot more :D
+
