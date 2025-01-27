@@ -4,3 +4,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer from India, 
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: www.howto0.com@gmail.com
+
+
+** Skills**
+👨‍💻 HTML, JavaScript, React
+⚙️ BootStrap, CSS
+👁️ Java, Hibernate, Spring, SpringBoot
+    MySql,Oracle
+a lot more :D
