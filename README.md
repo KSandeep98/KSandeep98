@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer from India, 
 
 ⚙️ BootStrap, CSS
 
-👁️ Java, Hibernate, Spring, SpringBoot
+👁️ Java, Hibernate, Spring, SpringBoot, MySql, Oracle
 
-    MySql,Oracle
+   
 
